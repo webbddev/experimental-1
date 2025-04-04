@@ -12,6 +12,10 @@ const nextConfig: NextConfig = {
         hostname: 'images.pexels.com',
         protocol: 'https',
       },
+      {
+        hostname: 'html.tailus.io',
+        protocol: 'https',
+      },
     ],
   },
 };

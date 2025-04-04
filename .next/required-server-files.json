@@ -62,6 +62,14 @@
         {
           "hostname": "res.cloudinary.com",
           "protocol": "https"
+        },
+        {
+          "hostname": "images.pexels.com",
+          "protocol": "https"
+        },
+        {
+          "hostname": "html.tailus.io",
+          "protocol": "https"
         }
       ],
       "unoptimized": false
