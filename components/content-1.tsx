@@ -11,7 +11,7 @@ export default function ContentSection() {
         <div className='grid gap-6 sm:grid-cols-2 md:gap-12 lg:gap-24'>
           <div className='relative mb-6 sm:mb-0'>
             <div className='bg-linear-to-b aspect-76/59 relative rounded-2xl from-zinc-300 to-transparent p-px dark:from-zinc-700'>
-              <Image
+              {/* <Image
                 src='/payments.png'
                 className='hidden rounded-[15px] dark:block'
                 alt='payments illustration dark'
@@ -22,9 +22,9 @@ export default function ContentSection() {
                 src='/payments-light.png'
                 className='rounded-[15px] shadow dark:hidden'
                 alt='payments illustration light'
-                width={1207}
-                height={929}
-              />
+                width={100}
+                height={70}
+              /> */}
             </div>
           </div>
 
@@ -52,12 +52,12 @@ export default function ContentSection() {
 
                 <div className='mt-6 space-y-3'>
                   <cite className='block font-medium'>John Doe, CEO</cite>
-                  <img
+                  <Image
                     className='h-5 w-fit dark:invert'
                     src='https://html.tailus.io/blocks/customers/nvidia.svg'
                     alt='Nvidia Logo'
                     height='20'
-                    width='auto'
+                    width={20}
                   />
                 </div>
               </blockquote>
