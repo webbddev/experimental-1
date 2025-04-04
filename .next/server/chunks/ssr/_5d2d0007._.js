@@ -989,7 +989,7 @@ function ContentSection() {
                     children: "The Lyra ecosystem brings together our models."
                 }, void 0, false, {
                     fileName: "[project]/components/content-1.tsx",
-                    lineNumber: 7,
+                    lineNumber: 8,
                     columnNumber: 9
                 }, this),
                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -1008,7 +1008,7 @@ function ContentSection() {
                                         height: 929
                                     }, void 0, false, {
                                         fileName: "[project]/components/content-1.tsx",
-                                        lineNumber: 13,
+                                        lineNumber: 14,
                                         columnNumber: 15
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$image$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["default"], {
@@ -1019,18 +1019,18 @@ function ContentSection() {
                                         height: 929
                                     }, void 0, false, {
                                         fileName: "[project]/components/content-1.tsx",
-                                        lineNumber: 20,
+                                        lineNumber: 21,
                                         columnNumber: 15
                                     }, this)
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/components/content-1.tsx",
-                                lineNumber: 12,
+                                lineNumber: 13,
                                 columnNumber: 13
                             }, this)
                         }, void 0, false, {
                             fileName: "[project]/components/content-1.tsx",
-                            lineNumber: 11,
+                            lineNumber: 12,
                             columnNumber: 11
                         }, this),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -1040,21 +1040,21 @@ function ContentSection() {
                                     className: "text-muted-foreground",
                                     children: [
                                         "Gemini is evolving to be more than just the models.",
-                                        " ",
+                                        ' ',
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
                                             className: "text-accent-foreground font-bold",
                                             children: "It supports an entire ecosystem"
                                         }, void 0, false, {
                                             fileName: "[project]/components/content-1.tsx",
-                                            lineNumber: 33,
+                                            lineNumber: 34,
                                             columnNumber: 15
                                         }, this),
-                                        " ",
+                                        ' ',
                                         "— from products innovate."
                                     ]
                                 }, void 0, true, {
                                     fileName: "[project]/components/content-1.tsx",
-                                    lineNumber: 31,
+                                    lineNumber: 32,
                                     columnNumber: 13
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -1062,7 +1062,7 @@ function ContentSection() {
                                     children: "It supports an entire ecosystem — from products to the APIs and platforms helping developers and businesses innovate"
                                 }, void 0, false, {
                                     fileName: "[project]/components/content-1.tsx",
-                                    lineNumber: 38,
+                                    lineNumber: 39,
                                     columnNumber: 13
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -1074,7 +1074,7 @@ function ContentSection() {
                                                 children: "Using TailsUI has been like unlocking a secret design superpower. It's the perfect fusion of simplicity and versatility, enabling us to create UIs that are as stunning as they are user-friendly."
                                             }, void 0, false, {
                                                 fileName: "[project]/components/content-1.tsx",
-                                                lineNumber: 45,
+                                                lineNumber: 46,
                                                 columnNumber: 17
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -1085,7 +1085,7 @@ function ContentSection() {
                                                         children: "John Doe, CEO"
                                                     }, void 0, false, {
                                                         fileName: "[project]/components/content-1.tsx",
-                                                        lineNumber: 53,
+                                                        lineNumber: 54,
                                                         columnNumber: 19
                                                     }, this),
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("img", {
@@ -1096,47 +1096,47 @@ function ContentSection() {
                                                         width: "auto"
                                                     }, void 0, false, {
                                                         fileName: "[project]/components/content-1.tsx",
-                                                        lineNumber: 54,
+                                                        lineNumber: 55,
                                                         columnNumber: 19
                                                     }, this)
                                                 ]
                                             }, void 0, true, {
                                                 fileName: "[project]/components/content-1.tsx",
-                                                lineNumber: 52,
+                                                lineNumber: 53,
                                                 columnNumber: 17
                                             }, this)
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/components/content-1.tsx",
-                                        lineNumber: 44,
+                                        lineNumber: 45,
                                         columnNumber: 15
                                     }, this)
                                 }, void 0, false, {
                                     fileName: "[project]/components/content-1.tsx",
-                                    lineNumber: 43,
+                                    lineNumber: 44,
                                     columnNumber: 13
                                 }, this)
                             ]
                         }, void 0, true, {
                             fileName: "[project]/components/content-1.tsx",
-                            lineNumber: 30,
+                            lineNumber: 31,
                             columnNumber: 11
                         }, this)
                     ]
                 }, void 0, true, {
                     fileName: "[project]/components/content-1.tsx",
-                    lineNumber: 10,
+                    lineNumber: 11,
                     columnNumber: 9
                 }, this)
             ]
         }, void 0, true, {
             fileName: "[project]/components/content-1.tsx",
-            lineNumber: 6,
+            lineNumber: 7,
             columnNumber: 7
         }, this)
     }, void 0, false, {
         fileName: "[project]/components/content-1.tsx",
-        lineNumber: 5,
+        lineNumber: 6,
         columnNumber: 5
     }, this);
 }
